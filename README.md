@@ -3,7 +3,7 @@
 
 ## Description 
 
-This project is a mobile responsive portfolio that highlights my accompolishments and interests.  The application showcases my talents and experience by allowing the user to view my web development projects, my GitHub repositories, my Linkedin profile, and my resume.  My-Portfolio was created using Bootstrap and is responsive across multiple devices.  This project will continue to evolve as I acquire additional skills in full stack web development.  My-Portfolio is an application that runs in the browser and features HTML and CSS.  In the future, I will update this app to incorporate better styling and increase the number of projects that are accessable from the site.
+This project is a mobile responsive portfolio that highlights my accompolishments and interests.  The application showcases my talents and experiences on my path to a full stack web development career by allowing the user to view my web development projects, my GitHub repositories, my Linkedin profile, and my resume.  My-Portfolio was created using Bootstrap and is responsive across multiple devices.  This project will continue to evolve as I acquire additional skills in MERN full stack web development.  My-Portfolio is an application that runs in the browser and features HTML and CSS.  In the future, I will update this app to incorporate better styling and increase the number of projects that are accessable from the site.
 
 ## Installation
 
