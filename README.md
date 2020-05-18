@@ -17,7 +17,7 @@ https://josephbrimeyer.github.io/my-portfolio/
 Here is a photo of the deployed application:
 
 ![My-Portfolio](./images/my-portfolio.png)
-![My-Portfolio2](./images/my-portfolio2.png)
+
 
 ## Usage 
 
